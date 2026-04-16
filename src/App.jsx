@@ -11,6 +11,7 @@ function App() {
   return (
     <>
       <Student name="Divyansh" age={22} />
+      
     </>
   )
 }
